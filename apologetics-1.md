@@ -2,7 +2,7 @@
 
 - "The mind cannot rejoice in what the mind accepts as false" - Clark H Pinnoch "Set Forth Your Case" - TODO - verify
 - 1 Peter 3:15 - Command - be ready
-- Love the Lord with all thy heart and soul and mind and strength - TODO - ref
+- Love the Lord with all thy heart and soul and mind and strength - Luke 10:27
 
 ## Why I believe
 
@@ -10,7 +10,7 @@
 A little about the gifts God has given, and continues to give me
 	- I am not unique - just saying I am not a dummy
 	- Keep yourself mentally healthy
-		- TODO - ref - Prosper in body and spirit
+		- TODO - ref - Prosper in body and spirit - 3 John 1:2
 		- Physical exercise profits some
 	- Mental networking - no fast on my feet
 	- Software Eng - Make a living using mostly my mind
